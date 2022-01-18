@@ -90,4 +90,4 @@ async def on_member_join(member):
     kanal = discord.utils.get(member.guild.channels, id=932662647948718100)
     await kanal.send(f"{member.mention} Siema :)")
 
-client.run('OTMyNTY0Njg1NDk5Mjc3MzYz.YeU0iw.FJYMhK5HRUag3Xzx3KRmoGWIrmk')
+client.run('OTMyNTY0Njg1NDk5Mjc3MzYz.YeU0iw.3XxZj9BmS6g_L1UVuNP_EVrA5YE')
